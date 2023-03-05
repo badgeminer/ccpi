@@ -15,10 +15,9 @@ in your project add a `ccpi.json` file
   }
 }
 ```
-then make a pull request adding `"your project name":"raw link to your repo"` to `index.json`
-eg.
+then make a pull request adding a file named `"your project".json` with
 ```json
 {
-  "ccpi":"https://raw.githubusercontent.com/badgeminer/ccpi/main/"
+  "url":"raw link to your repo"
 }
 ```
