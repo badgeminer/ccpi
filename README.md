@@ -1,4 +1,5 @@
 # CCPI
+## ![](https://raw.githubusercontent.com/badgeminer/ccpi/main/pkg-removebg-preview.png) packaging for cc:tweaked
 ### how to add your project
 in your project add a `ccpi.json` file
 ```json 
